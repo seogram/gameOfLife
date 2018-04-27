@@ -1,5 +1,5 @@
-let rows = 30;
-let cols = 50;
+const rows = 30;
+const cols = 50;
 
 /**
  * Create and fill the initial array with falsy items
